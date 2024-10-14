@@ -10,5 +10,11 @@ AreaTriangulo <- function(base, altura) {
 }
 ```
 
+```{r setup, include=FALSE}
+AreaRectangulo <- function(ancho, alto) {
+  return(ancho * alto)
+}
+```
+
 
 
