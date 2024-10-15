@@ -16,5 +16,11 @@ AreaRectangulo <- function(ancho, alto) {
 }
 ```
 
+```{r}
+AreaTrapecio <- function(b, B, h){
+  return(((b + B) / 2)*h)
+}
+```
+
 
 
